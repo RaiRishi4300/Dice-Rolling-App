@@ -1,14 +1,14 @@
 # 🎲Dicee
 
-**📍Our Goal-:**
+## 📍Our Goal-:
 
 The objective of this project is to use the core programming concepts that will form the foundation of most of the apps . This app will show how to make apps with functionality using setState() inside Stateful Flutter widgets.
 
-**💻Functionality-:**
+## 💻Functionality-:
 
 We’re going to make a Las Vegas dice app. We can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-**🧾Learning Side-:**
+## 🧾Learning Side-:
 
 -> How to use Flutter stateless widgets to design the user interface.</br>
 -> How to use Flutter stateful widgets to update the user interface.</br>
@@ -20,6 +20,6 @@ We’re going to make a Las Vegas dice app. We can make the die roll at the pres
 -> Learn about basic dart programming concepts such as data types and functions.</br>
 -> Code and use gesture controls.
 
-**How it looks finally-:**
+## How it looks finally-:
 
 ![dice rolling](https://user-images.githubusercontent.com/78846281/114930550-c5532700-9e52-11eb-87e1-487746fb54b7.gif)
