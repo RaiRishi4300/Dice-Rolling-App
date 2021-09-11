@@ -1,12 +1,13 @@
 # 🎲Dicee
 
-## 📍Our Goal-:
+## 📍Project Title-:
 
-The objective of this project is to use the core programming concepts that will form the foundation of most of the apps . This app will show how to make apps with functionality using setState() inside Stateful Flutter widgets.
+Dice App
+
 
 ## 💻Functionality-:
 
-We’re going to make a Las Vegas dice app. We can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
+This is a dice app where we can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
 ## 🧾Learning Side-:
 
